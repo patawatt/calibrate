@@ -1,0 +1,17 @@
+﻿Compound Name,,,,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,
+Labels,Date Acquired,Data File Name,Data File Path,(# 1) Name,(# 1) Ret Time,(# 1) Amount,(# 1) Units,(# 1) Manual Integration,(# 1) Target Response,(# 1) Response Type,(# 2) Name,(# 2) Ret Time,(# 2) Amount,(# 2) Units,(# 2) Manual Integration,(# 2) Target Response,(# 2) Response Type,(# 3) Name,(# 3) Ret Time,(# 3) Amount,(# 3) Units,(# 3) Manual Integration,(# 3) Target Response,(# 3) Response Type,(# 4) Name,(# 4) Ret Time,(# 4) Amount,(# 4) Units,(# 4) Manual Integration,(# 4) Target Response,(# 4) Response Type,(# 5) Name,(# 5) Ret Time,(# 5) Amount,(# 5) Units,(# 5) Manual Integration,(# 5) Target Response,(# 5) Response Type,Sample Name
+,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!,#REF!
+Format 1 (Yes/No),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Format 1 Title,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Format 2 (Yes/No),,,,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,
+Format 2 Title,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Show X Axis Title,,,,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,,YES,YES,,,YES,YES,
+Show Y Axis Title,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Lines To Chart,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Format 1,Format 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start of Data,X-axis,X-axis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2019-09-04 12:16,2019-09-04-01.D,D:\MSD_DATA\2019-08\,Benzene,2.57,0.13,ppb,0,13700.74,Area,Toluene,3.63,5.14,ppb,0,13123.712,Area,Ethylbenzene,5.58,5.09,ppb,0,16740.6,Area,"(m,p)Xylene",5.76,3.70,ppb,0,48387,Area,o-Xylene,0.00,0.00,ppb,0,0,Area,blk
+,2019-09-04 12:58,2019-09-04-02.D,D:\MSD_DATA\2019-08\,Benzene,2.57,0.07,ppb,0,7423.368,Area,Toluene,3.66,5.09,ppb,0,7607.544,Area,Ethylbenzene,5.61,5.06,ppb,0,13249.032,Area,"(m,p)Xylene",5.78,3.58,ppb,0,17935.991,Area,o-Xylene,0.00,0.00,ppb,0,0,Area,blk
+,2019-09-04 14:22,2019-09-04-03.D,D:\MSD_DATA\2019-08\,Benzene,2.58,92.09,ppb,0,9362307.45,Area,Toluene,3.65,98.86,ppb,0,10003982.88,Area,Ethylbenzene,5.59,95.73,ppb,0,12364378.54,Area,"(m,p)Xylene",5.76,97.95,ppb,0,24320291.49,Area,o-Xylene,6.36,97.99,ppb,0,12752930.88,Area,100ppb_btx_qc
+,2019-09-04 14:49,2019-09-04-04.D,D:\MSD_DATA\2019-08\,Benzene,2.59,0.09,ppb,0,9215.188,Area,Toluene,3.66,5.17,ppb,0,16282.02,Area,Ethylbenzene,5.61,5.07,ppb,0,14702.459,Area,"(m,p)Xylene",5.78,3.67,ppb,0,41788.004,Area,o-Xylene,6.37,4.23,ppb,0,12599.368,Area,blk
+,2019-09-04 15:16,2019-09-04-05.D,D:\MSD_DATA\2019-08\,Benzene,2.58,0.06,ppb,0,6157.436,Area,Toluene,3.63,5.09,ppb,0,7362.3,Area,Ethylbenzene,5.59,5.02,ppb,0,8372.556,Area,"(m,p)Xylene",5.76,3.57,ppb,0,14923.332,Area,o-Xylene,6.37,4.17,ppb,0,5502.984,Area,blk
